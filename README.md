@@ -65,9 +65,15 @@
 
 Несколько скриншотов работы программы.
 
-![](/SampleImages/len_original.png)
+![](/Samples/Guitarist.png)
 
-![](/SampleImages/len_GaussianBlur5x5.png)
+![](/Samples/Cat.png)
+
+![](/Samples/Cofee.png)
+
+![](/Samples/Goat.png)
+
+![](/Samples/Bible.png)
 
 ## Загрузка
 
