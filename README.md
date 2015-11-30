@@ -77,7 +77,7 @@
 
 ## Загрузка
 
-* [Исолнительный файл](https://github.com/Kovnir/DeblurModification/blob/master/bin/RecoveryModification.zip?raw=true)
+* [Исполнительный файл](https://github.com/Kovnir/DeblurModification/blob/master/bin/RecoveryModification.zip?raw=true)
 * [Исходные коды](https://github.com/Kovnir/DeblurModification/archive/master.zip)
 
 ## Публикации
